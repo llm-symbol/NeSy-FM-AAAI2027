@@ -20,3 +20,6 @@ body{background:#fff;color:var(--ink)}.site-header{background:rgba(255,255,255,.
 @media(max-width:760px){.aaai-logo{width:92px}.brand{gap:15px}.hero-art{width:440px;right:-190px;top:100px;opacity:.18}.schedule-placeholder{align-items:flex-start}.schedule-tba{width:110px;height:90px;font-size:24px}}
 @media(max-width:520px){.brand-name{font-size:17px;min-width:95px}.schedule-placeholder{display:block}.schedule-tba{margin-top:25px}}
 .brand-name{display:block;line-height:1.15;min-width:105px}.brand-name small{display:block;margin-top:6px;line-height:1.2}
+
+/* Organizer portraits */
+.organizers-section .avatar{display:block;width:96px;height:96px;object-fit:cover;object-position:center;border-radius:16px;margin-bottom:22px}
