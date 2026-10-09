@@ -6,3 +6,4 @@
 - hao-fei: https://haofei.vip/images/teampic/feihao-potriat.jpg
 - asim-munawar: https://asimmunawar.github.io/images/asim.jpg
 - william-cohen: https://www.cs.cmu.edu/~wcohen/william-at-whiteboard-small.JPG
+- xin-quan: https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=IvN03u4AAAAJ&citpid=8
